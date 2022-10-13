@@ -7,7 +7,7 @@
 ## Contract Releases
 
 - [Polygon Mumbai Testnet (80001)](https://mumbai.polygonscan.com)
-- [View On Polygonscan](https://mumbai.polygonscan.com)
+- [View On Polygonscan](https://mumbai.polygonscan.com/address/0x45ce9c04125bbac6d701bdb7df65a38680d535db)
 
 ```json
 {
